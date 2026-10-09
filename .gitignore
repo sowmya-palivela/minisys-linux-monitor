@@ -1,0 +1,9 @@
+# Compiled executables
+/system_info
+/memory_info
+/cpu_info
+/process_info
+/minisys
+
+# Object files
+*.o
